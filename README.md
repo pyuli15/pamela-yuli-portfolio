@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/pyuli15/pamela-yuli-portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you will find a collection of my games created for clsses as well as for fun. Many of my games vary between the Unity engine and simple p5. I cover a multitude of genres as well as game styles. Hope you enjoy!
 
 ### Markdown
 
